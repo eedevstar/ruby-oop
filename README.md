@@ -1,4 +1,4 @@
-# TelVue Pre-Interview Coding Challenge
+# Coding Challenge
 
 ## Requirements
 Using ruby (no gems except test-unit or minitest) build a class that satisfies the following business requirements:
